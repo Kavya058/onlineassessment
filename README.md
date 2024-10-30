@@ -1,7 +1,7 @@
 # onlineassessment
 Here is my catalog assessment repository
 
-To run the code type 
+To run the code,
 
 In terminal type 
 
