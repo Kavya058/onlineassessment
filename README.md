@@ -11,4 +11,6 @@ g++ -o secret_sharing secret_sharing.cpp -I
 output
 
 the constant term(secret) c  for test case is:3
+
+
 the constant term (secret) c for test case is:8740322861664527854
